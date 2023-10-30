@@ -1,0 +1,181 @@
+header .bg-img{
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+#id11{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+main h1{
+
+    font-size: 95px;
+}
+.card{
+   
+    margin-left: 35px;
+    
+    
+}
+#id12{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#logo, p{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 0px;
+}
+#id20{
+    font-size: 19px;
+}
+
+#id2{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+#id3{
+    display: flex;
+    max-height: 300px;
+    width: 300px;
+   
+}
+#id4{
+    margin-left: 0px;
+    margin-top: 200px;
+    background-color: aliceblue;
+    padding: 50px;
+}
+#id5{
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: wheat;
+    padding: 50px;
+
+}
+
+
+#id17{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    max-height: 300px;
+    width: 1350px;
+}
+#id6{
+    display: flex;
+    padding-left: 450px;
+    padding-bottom: 50px;
+}
+#id7{
+    display: flex;
+   
+}
+#id8{
+    display: flex;
+   margin-left: 0px;
+   margin-top: px;
+   margin-bottom: 0px;
+   margin-right: 0px;
+  
+   align-items: center;
+}
+.bi-circle{
+    color: #CECECE;
+    font-size: 70px;
+}
+
+footer {
+    background-color: black;
+    
+}
+#id9{
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding-top: 100px;
+}
+#id10, #id101, #id102{
+    text-align: right;
+    padding-bottom: 100px;
+}
+#id103{
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    
+}
+.col-sm-9{
+    color: white;
+}
+#id13{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    align-items: end;
+}
+#id14{
+    align-items: end;
+    padding-left: 800px;
+    font-weight: bold;
+}
+#id15{
+    position: relative;
+}
+#id18{
+    position: relative;
+}
+#id16, #id19{
+    display: block;
+    
+}
+.bi-play-circle-fill, .bi-play-fill{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    font-size: 70px;
+    margin-left: -25px;
+    margin-top: -30px;
+}
+.bi-play-fill{
+    color: black;
+    
+}
+.bi-stop-fill{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    color: white;
+    font-size: 70px;
+    margin-left: -25px;
+    margin-top: -30px;
+}
+.bi-headphones{
+    color: black;
+    font-size: 30px;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    margin-left: -25px;
+    margin-top: -30px;
+}
+#id20{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+
+
